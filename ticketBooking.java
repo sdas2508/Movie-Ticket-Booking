@@ -1,4 +1,4 @@
-package MovieTicketDesign;
+
 import java.util.*;
 
 abstract class movieDetails{
